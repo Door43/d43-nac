@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nac:home|Door43 (nac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nac|d43-nac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nac/archive/master.zip|d43-nac.zip]]
+
+**Recent Changes**
+{{changes>ns = nac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nac|Ethnologue data]]
+
